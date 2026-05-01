@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mridul Upadhyay</h1>
 <h3 align="center">A 3rd Year B.Tech CSE passionate Web developer from India</h3>
 
+Skills:HTML,CSS,Javascript,React,NodeJs,MongoDB,ExpressJs
+Language:Python,C,C++
+Tools:Github,Docker,Kubernates,Vscode,Selenium
+
+
+
 - 👯 I’m looking to collaborate on **Web based Projects**
 
 - 📫 How to reach me **mridulsupadhayay333@gmail.com**
