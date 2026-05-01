@@ -1,22 +1,91 @@
 <h1 align="center">Hi 👋, I'm Mridul Upadhyay</h1>
-<h3 align="center">A 3rd Year B.Tech CSE passionate Web developer from India</h3>
+<h3 align="center">🚀 3rd Year B.Tech CSE | Full Stack Web Developer</h3>
 
-Skills:HTML,CSS,Javascript,Typescript,React,NodeJs,MongoDB,ExpressJs
-
- Language:Python,C,C++
- 
-Tools:Github,Docker,Kubernates,Vscode,Selenium
-
-
-
-- 👯 I’m looking to collaborate on **Web based Projects**
-
-- 📫 How to reach me **mridulsupadhayay333@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mridul upadhyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mridul upadhyay" height="30" width="40" /></a>
+<p align="center">
+💻 Passionate about building scalable web applications <br>
+🌱 Currently exploring Fullstack Web Development and Artificial Intelligence <br>
+🤝 Open to collaborations on Web Projects
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+## 📫 Connect with me
+
+<p align="left">
+<a href="https://linkedin.com/in/mridul-upadhyay" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+</p>
+
+📧 Email: **mridulsupadhayay333@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, MySQL  
+- **Languages:** C, C++, Python  
+- **Tools & DevOps:** Git, GitHub, Docker, Kubernetes, VS Code, Selenium  
+
+---
+
+## 🧰 Languages & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,python,cpp,c,docker,kubernetes,git,github,vscode,tailwind,bootstrap" />
+</p>
+
+---
+
+## 🚀 Featured Projects## 🚀 Featured Projects
+
+### 🔹 StayMate (PG & Hostel Finder)
+- 📝 A web-based platform that helps college students find and book PGs and hostels  
+- ⚙️ Tech Stack: React,Typescript, Node.js, Express.js, MongoDB  
+- 🌟 Features:
+  - Search & filter accommodations by location, price, and amenities  
+  - User authentication & booking system  
+  - Owner listing and management dashboard  
+  - Responsive UI for mobile and desktop  
+ 
+
+---
+
+### 🔹 Brain Tumor Segmentation (BRATS Dataset)
+- 📝 A deep learning-based system for detecting and segmenting brain tumors from MRI scans using the BRATS dataset  
+- ⚙️ Tech Stack: Python, TensorFlow/PyTorch, OpenCV  
+- 🌟 Features:
+  - Image preprocessing and augmentation  
+  - Tumor segmentation using CNN/UNet architecture  
+  - Visualization of segmented tumor regions  
+  - Model evaluation with accuracy metrics  
+ 
+
+---
+
+### 🔹 Portfolio Website
+- 📝 A personal portfolio website to showcase my projects, skills, and achievements  
+- ⚙️ Tech Stack: HTML, CSS, JavaScript  
+- 🌟 Features:
+  - Fully responsive design  
+  - Smooth scrolling and modern UI  
+  - Projects and contact section  
+  
+
+---
+
+### 🔹 Prayas Admin Portal
+- 📝 A platform designed to bridge the gap between society and government by enabling better communication and issue tracking  
+- ⚙️ Tech Stack: React, Node.js, MongoDB  
+- 🌟 Features:
+  - Complaint/issue submission system  
+  - Admin dashboard for monitoring and resolving issues  
+  - Status tracking and updates  
+  - Role-based access control  
+  
+
+---
+
+⭐️ From [Mridul Upadhyay](https://github.com/YOUR_USERNAME)
