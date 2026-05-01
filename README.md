@@ -2,7 +2,9 @@
 <h3 align="center">A 3rd Year B.Tech CSE passionate Web developer from India</h3>
 
 Skills:HTML,CSS,Javascript,React,NodeJs,MongoDB,ExpressJs
-Language:Python,C,C++
+
+ Language:Python,C,C++
+ 
 Tools:Github,Docker,Kubernates,Vscode,Selenium
 
 
