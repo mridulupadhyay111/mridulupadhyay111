@@ -52,6 +52,17 @@
  
 
 ---
+Real-Time Crowd Monitoring System
+📝 A computer vision-based system for monitoring crowd density in real time using live CCTV/video feeds and detecting overcrowding situations
+⚙️ Tech Stack: Python, OpenCV, TensorFlow/PyTorch, Flask, Twilio API, SMTP (Email Service)
+🌟 Features:
+Real-time video stream processing for crowd detection
+Crowd counting using deep learning / object detection models (YOLO/CNN-based)
+Configurable threshold limit for crowd density alerts
+Instant alerts via Email and SMS using Twilio when threshold is exceeded
+Automatic snapshot capture of the scene during alert trigger
+Dashboard for live monitoring and visualization of crowd status
+Logging system for storing crowd count history and alerts
 
 ### 🔹 Brain Tumor Segmentation (BRATS Dataset)
 - 📝 A deep learning-based system for detecting and segmenting brain tumors from MRI scans using the BRATS dataset  
