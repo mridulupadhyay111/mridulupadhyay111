@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mridul Upadhyay</h1>
-<h3 align="center">🚀 3rd Year B.Tech CSE | Full Stack Web Developer</h3>
+<h3 align="center">🚀 4th Year B.Tech CSE Student| Full Stack Web Developer</h3>
 
 <p align="center">
 💻 Passionate about building scalable web applications <br>
